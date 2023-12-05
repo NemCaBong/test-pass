@@ -1,7 +1,40 @@
-# Học Git bằng cách thực hành
+# Heading 1
 
-- Nếu không khai báo `git push origin main` mà đôi khi chỉ cần `git push` thôi Git vẫn tự hiểu là đang push lên origin main rồi.
+## Heading 2
 
-# git log --oneline
+##### Heading 5
 
-- Thử conflict code xem như thế nào
+Text bình thường
+
+Thẻ li
+
+- thẻ li thứ 1
+- thẻ li thứ 2
+
+[Đây là link](google.com)
+
+`Đoạn chữ cần nhấn mạnh`
+
+`git bash`
+
+> Đây là quoting
+
+Lưu ý: in đậm và in nghiêng phải để dấu \* liền với chữ:
+
+**In đậm**
+
+_In nghiêng_
+
+```js
+const a = 10;
+```
+
+```bash
+git push origin main
+```
+
+| STT | Tên        | Thuộc tính | Sức mạnh | Phòng thủ | Nhanh nhẹn |
+| --- | ---------- | ---------- | -------- | --------- | ---------- |
+| 1   | Pikachu    | Điện       | 9        | 8         | 7          |
+| 2   | Charmander | Lửa        | 10       | 5         | 8          |
+| 3   | Bulbasaur  | Cây        | 4        | 10        | 7          |
