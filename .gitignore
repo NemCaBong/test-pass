@@ -1,0 +1,18 @@
+# Thêm đuôi / vào sau folder 
+# để không bị nhầm với file
+
+# ** 2 dấu sao là ko include
+# mọi thứ trog node_modules folder
+# Phải có /** thì mới !node_modules/app.js đc
+node_modules/**
+
+# Không ignore app.js trong node_modules
+!node_modules/app.js
+# Chỉ ignore các file js trong dist folder thôi
+dist/**.js
+
+.prettierrc
+
+# ignore tất cả các file
+# bắt đầu bằng chữ log
+logs*

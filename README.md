@@ -13,6 +13,8 @@ Thẻ li
 
 [Đây là link](google.com)
 
+![Anh pikachu](Pikachu.webp)
+
 `Đoạn chữ cần nhấn mạnh`
 
 `git bash`
