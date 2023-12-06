@@ -40,3 +40,5 @@ git push origin main
 | 1   | Pikachu    | Điện       | 9        | 8         | 7          |
 | 2   | Charmander | Lửa        | 10       | 5         | 8          |
 | 3   | Bulbasaur  | Cây        | 4        | 10        | 7          |
+
+HandleA da edit cai readme nay
