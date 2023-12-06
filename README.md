@@ -42,3 +42,4 @@ git push origin main
 | 3   | Bulbasaur  | Cây        | 4        | 10        | 7          |
 
 HandleA da edit cai readme nay
+HandleB da edit
